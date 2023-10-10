@@ -4,7 +4,7 @@
   "description": "yk vue press",
   "main": "index.js",
   "repository": "https://github.com/KimYoonKyum/vue-press.git",
-  "author": "김윤겸/에듀개발팀/ED <tom@nhnedu.com>",
+  "author": "김윤겸 <newalpha7@naver.com>",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
